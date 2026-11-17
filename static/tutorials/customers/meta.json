@@ -1,0 +1,35 @@
+{
+  "slug": "customers",
+  "title": "Manage your customers",
+  "category": "back-office",
+  "summary": "Search the customer list, add a new customer and read a customer profile with its history and balance.",
+  "doc": "/docs/shop/people/customers",
+  "order": 30,
+  "duration": 115,
+  "chapters": [
+    {
+      "t": 6.9,
+      "title": "Sign in"
+    },
+    {
+      "t": 19.3,
+      "title": "The customer list"
+    },
+    {
+      "t": 32.9,
+      "title": "Search"
+    },
+    {
+      "t": 48.5,
+      "title": "Add a customer"
+    },
+    {
+      "t": 73.8,
+      "title": "The customer profile"
+    },
+    {
+      "t": 84.9,
+      "title": "History and balance"
+    }
+  ]
+}

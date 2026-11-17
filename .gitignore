@@ -1,0 +1,6 @@
+node_modules
+build
+.docusaurus
+
+# narration clips (made by narrate.js)
+scripts/tutorials/.narration-cache

@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:04.415 --> 00:00:18.753
+A shift starts when you open the register. Go to Sales, POS Terminal.
+
+2
+00:00:18.853 --> 00:00:24.328
+The register bar at the top shows when the shift opened and has the two cash buttons.
+
+3
+00:00:24.428 --> 00:00:28.258
+Select Cash in/out to record money added to the drawer.
+
+4
+00:00:28.359 --> 00:00:33.616
+Cash in is selected. Enter the amount, then choose a reason such as Float top-up.
+
+5
+00:00:33.716 --> 00:00:39.254
+Add a note if you like and select Save. The movement is on this shift's report.
+
+6
+00:00:39.354 --> 00:00:44.501
+Use Cash in/out again, this time for money leaving the drawer. Choose Cash out.
+
+7
+00:00:44.601 --> 00:00:51.557
+Enter the amount and a reason such as Safe drop. You cannot take out more than the drawer should hold.
+
+8
+00:00:51.657 --> 00:00:54.878
+At the end of the day select Close Register.
+
+9
+00:00:54.978 --> 00:01:01.609
+Count the cash in the drawer and type the Counted cash. Here the count is a little short, so a note helps.
+
+10
+00:01:01.709 --> 00:01:05.756
+Select Close Register. The shift ends and its report opens.
+
+11
+00:01:05.856 --> 00:01:12.431
+The report compares the cash you counted with the cash the drawer should hold. The Difference is the gap.
+
+12
+00:01:12.531 --> 00:01:19.218
+Scroll down for the cash movements you just made. Payments and sales made in the shift are listed here too.
+
+13
+00:01:20.083 --> 00:01:26.275
+Sales, Shifts lists every shift, with its sales total, expected cash, counted cash and difference.
+
+14
+00:01:26.375 --> 00:01:31.149
+Tick Only shifts with a difference to find drawers that did not balance.

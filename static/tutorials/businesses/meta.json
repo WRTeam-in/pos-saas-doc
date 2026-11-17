@@ -1,0 +1,31 @@
+{
+  "slug": "businesses",
+  "title": "Manage businesses",
+  "category": "super-admin",
+  "summary": "Find a business, read its profile, plan usage and invoices, and see where you change its plan and status or open it as its owner.",
+  "doc": "/docs/platform/businesses",
+  "order": 41,
+  "duration": 95,
+  "chapters": [
+    {
+      "t": 3.5,
+      "title": "The list"
+    },
+    {
+      "t": 24.3,
+      "title": "Search"
+    },
+    {
+      "t": 33,
+      "title": "Business profile"
+    },
+    {
+      "t": 59.4,
+      "title": "Change plan and status"
+    },
+    {
+      "t": 76.1,
+      "title": "Open as the owner"
+    }
+  ]
+}

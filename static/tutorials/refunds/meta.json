@@ -1,0 +1,35 @@
+{
+  "slug": "refunds",
+  "title": "Refund a sale",
+  "category": "selling",
+  "summary": "Find a completed sale, choose what comes back and why, pay the customer out and check the refund history.",
+  "doc": "/docs/shop/selling/refunds",
+  "order": 13,
+  "duration": 85,
+  "chapters": [
+    {
+      "t": 4.8,
+      "title": "Start a return"
+    },
+    {
+      "t": 24.2,
+      "title": "Find the sale"
+    },
+    {
+      "t": 33.2,
+      "title": "Choose what comes back"
+    },
+    {
+      "t": 48.4,
+      "title": "Give a reason"
+    },
+    {
+      "t": 56.6,
+      "title": "Pay the customer back"
+    },
+    {
+      "t": 71.3,
+      "title": "Refund history"
+    }
+  ]
+}

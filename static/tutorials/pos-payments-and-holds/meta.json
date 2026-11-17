@@ -1,0 +1,35 @@
+{
+  "slug": "pos-payments-and-holds",
+  "title": "Coupons, split payments and held sales",
+  "category": "selling",
+  "summary": "Apply a coupon, pay with card, UPI or a split of methods, and park a sale to finish it later.",
+  "doc": "/docs/shop/selling/pos-terminal",
+  "order": 11,
+  "duration": 124,
+  "chapters": [
+    {
+      "t": 7.6,
+      "title": "Start a sale"
+    },
+    {
+      "t": 36.9,
+      "title": "Apply a coupon"
+    },
+    {
+      "t": 50.4,
+      "title": "Card and UPI"
+    },
+    {
+      "t": 66.3,
+      "title": "Split payment"
+    },
+    {
+      "t": 95.2,
+      "title": "Hold a sale"
+    },
+    {
+      "t": 104.6,
+      "title": "Resume it"
+    }
+  ]
+}

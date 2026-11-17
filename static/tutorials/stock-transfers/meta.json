@@ -1,0 +1,35 @@
+{
+  "slug": "stock-transfers",
+  "title": "Move stock between branches",
+  "category": "back-office",
+  "summary": "Transfer products from one branch to another and check the stock at both ends.",
+  "doc": "/docs/shop/stock/stock-transfers",
+  "order": 23,
+  "duration": 90,
+  "chapters": [
+    {
+      "t": 4.4,
+      "title": "Sign in"
+    },
+    {
+      "t": 14.4,
+      "title": "Check the source branch"
+    },
+    {
+      "t": 23.6,
+      "title": "Start a transfer"
+    },
+    {
+      "t": 41.6,
+      "title": "Add the products"
+    },
+    {
+      "t": 54.4,
+      "title": "Save the transfer"
+    },
+    {
+      "t": 70.1,
+      "title": "Check the receiving branch"
+    }
+  ]
+}

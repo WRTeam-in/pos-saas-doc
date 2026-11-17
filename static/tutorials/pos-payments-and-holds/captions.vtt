@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:07.614 --> 00:00:27.995
+Sign in and open the POS Terminal with your register already open.
+
+2
+00:00:28.095 --> 00:00:36.868
+Add the products the customer is buying.
+
+3
+00:00:36.969 --> 00:00:42.281
+If the customer has a coupon, type the code in the Coupon Code box under the cart.
+
+4
+00:00:42.381 --> 00:00:47.364
+Select Apply. The discount comes off the total and the code shows as a chip.
+
+5
+00:00:50.492 --> 00:00:54.263
+Select Pay Now. Besides Cash you can take Card or UPI.
+
+6
+00:00:54.363 --> 00:00:59.842
+Choose Card. The received amount is filled in for you, so there is no change to give.
+
+7
+00:00:59.942 --> 00:01:06.270
+UPI works the same way. Some methods also ask for a reference, such as a slip or transaction number.
+
+8
+00:01:06.382 --> 00:01:11.090
+When the customer wants to pay with more than one method, choose Split.
+
+9
+00:01:11.196 --> 00:01:16.507
+Each row is one method. Set the first to Cash and enter the part they pay in cash.
+
+10
+00:01:16.607 --> 00:01:23.458
+The second row picks up what is still to pay. Set it to UPI and add the UPI reference. It shows Fully covered.
+
+11
+00:01:23.558 --> 00:01:27.823
+Select Pay & Complete Sale to record both payments on one sale.
+
+12
+00:01:27.923 --> 00:01:31.920
+The confirmation lists the payment methods that were used.
+
+13
+00:01:35.260 --> 00:01:39.250
+A customer forgot their wallet? Add their items as normal.
+
+14
+00:01:39.350 --> 00:01:44.550
+Select Hold Sale. The cart is parked and the till is free for the next customer.
+
+15
+00:01:44.650 --> 00:01:49.190
+Parked sales appear in the Held Sales list. The cart is empty again.
+
+16
+00:01:49.290 --> 00:01:54.160
+When the customer is back, select Resume to bring the cart back as it was.
+
+17
+00:01:56.986 --> 00:02:02.628
+From here you can take payment as usual. That is coupons, split payments and held sales.

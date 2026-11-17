@@ -1,0 +1,39 @@
+{
+  "slug": "platform-dashboard",
+  "title": "The platform dashboard",
+  "category": "super-admin",
+  "summary": "Sign in to the Super Admin panel and read the dashboard: businesses, sales, subscriptions, monthly recurring revenue and recent activity.",
+  "doc": "/docs/platform/dashboard",
+  "order": 40,
+  "duration": 90,
+  "chapters": [
+    {
+      "t": 3.6,
+      "title": "Sign in"
+    },
+    {
+      "t": 20.7,
+      "title": "Choose a period"
+    },
+    {
+      "t": 32.4,
+      "title": "Key numbers"
+    },
+    {
+      "t": 38.8,
+      "title": "Needs attention"
+    },
+    {
+      "t": 52.1,
+      "title": "Subscriptions and revenue"
+    },
+    {
+      "t": 65,
+      "title": "Charts and rankings"
+    },
+    {
+      "t": 75.8,
+      "title": "Recent activity"
+    }
+  ]
+}

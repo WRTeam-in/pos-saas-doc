@@ -1,0 +1,35 @@
+{
+  "slug": "team-and-roles",
+  "title": "Team and roles",
+  "category": "back-office",
+  "summary": "Invite a team member, give them a role and branches, and see what each role is allowed to do.",
+  "doc": "/docs/shop/people/team",
+  "order": 33,
+  "duration": 121,
+  "chapters": [
+    {
+      "t": 3.5,
+      "title": "Sign in"
+    },
+    {
+      "t": 12.1,
+      "title": "Your team"
+    },
+    {
+      "t": 27.4,
+      "title": "Invite a team member"
+    },
+    {
+      "t": 56.2,
+      "title": "Change a role"
+    },
+    {
+      "t": 71.8,
+      "title": "Roles and permissions"
+    },
+    {
+      "t": 86,
+      "title": "What a Cashier can do"
+    }
+  ]
+}

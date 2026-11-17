@@ -1,0 +1,35 @@
+{
+  "slug": "shifts-and-cash",
+  "title": "Cash in/out and closing the register",
+  "category": "selling",
+  "summary": "Record cash added to or taken from the drawer, close the register with a counted amount and review shifts.",
+  "doc": "/docs/shop/selling/shifts-and-cash",
+  "order": 14,
+  "duration": 94,
+  "chapters": [
+    {
+      "t": 4.4,
+      "title": "The open register"
+    },
+    {
+      "t": 24.4,
+      "title": "Cash in"
+    },
+    {
+      "t": 39.3,
+      "title": "Cash out"
+    },
+    {
+      "t": 51.6,
+      "title": "Close the register"
+    },
+    {
+      "t": 65.8,
+      "title": "The shift report"
+    },
+    {
+      "t": 80,
+      "title": "All shifts"
+    }
+  ]
+}

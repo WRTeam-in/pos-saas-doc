@@ -1,0 +1,35 @@
+{
+  "slug": "pos-terminal",
+  "title": "Sell at the POS terminal",
+  "category": "selling",
+  "summary": "Open the register, add products to the cart, pick a customer, take a cash payment and finish the sale.",
+  "doc": "/docs/shop/selling/pos-terminal",
+  "order": 10,
+  "duration": 115,
+  "chapters": [
+    {
+      "t": 6.9,
+      "title": "Open the register"
+    },
+    {
+      "t": 36.1,
+      "title": "Find products"
+    },
+    {
+      "t": 52.3,
+      "title": "Build the cart"
+    },
+    {
+      "t": 69.4,
+      "title": "Choose a customer"
+    },
+    {
+      "t": 79.8,
+      "title": "Take payment"
+    },
+    {
+      "t": 94,
+      "title": "Complete the sale"
+    }
+  ]
+}
