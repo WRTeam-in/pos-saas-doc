@@ -17,7 +17,7 @@ module.exports = function tutorialsRoutes(context) {
           JSON.stringify({ tutorial, prev: list[i - 1] || null, next: list[i + 1] || null }),
         );
         actions.addRoute({
-          path: `/tutorials/${tutorial.slug}`,
+          path: `${context.baseUrl}tutorials/${tutorial.slug}`,
           component: '@site/src/components/Tutorials/Watch',
           modules: { data },
           exact: true,

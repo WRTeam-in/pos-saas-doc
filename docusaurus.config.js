@@ -1,10 +1,16 @@
 // @ts-check
+// GitHub Pages serves the site at /pos-saas-doc/ (BASE_URL is set in .github/workflows/deploy.yml); local and offline builds use /.
+const baseUrl = process.env.BASE_URL || '/';
+
 const config = {
   title: 'POS SaaS Documentation',
   tagline: 'Multi-tenant point of sale and back office',
   favicon: 'img/favicon.svg',
-  url: 'https://docs.example.com',
-  baseUrl: '/',
+  url: 'https://wrteam-in.github.io',
+  baseUrl,
+  organizationName: 'WRTeam-in',
+  projectName: 'pos-saas-doc',
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   i18n: { defaultLocale: 'en', locales: ['en'] },
   plugins: ['./plugins/tutorials-routes'],
@@ -18,7 +24,7 @@ const config = {
       },
     ],
   ],
-  scripts: [{ src: '/js/lightbox.js', defer: true }, { src: '/js/search.js', defer: true }, { src: '/js/theme.js', defer: true }],
+  scripts: ['lightbox', 'search', 'theme'].map((name) => ({ src: `${baseUrl}js/${name}.js`, defer: true })),
   themeConfig: {
     navbar: {
       title: 'POS SaaS Documentation',
