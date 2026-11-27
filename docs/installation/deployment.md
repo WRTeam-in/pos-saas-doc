@@ -32,6 +32,15 @@ npm install
 npm run build
 ```
 
+| Folder or file | Needed on the server? |
+|---|---|
+| `vendor`, `public/build` | Yes |
+| `.env` | Yes, the server's own file. Never replace it with a local one |
+| `node_modules` | No, unless you build on the server |
+| `resources/js`, `resources/css` | Only if you build on the server |
+| `public/hot` | Never upload it. It makes the site look for a development server |
+| `tests`, `.git` | No |
+
 ## Separate admin domain
 
 By default the Super admin panel is at `/admin`. To serve it on its own host, set `ADMIN_DOMAIN` in `.env` (for example `admin.example.com`) and point that host at the same `public` folder. See [Environment configuration](environment-configuration.md).

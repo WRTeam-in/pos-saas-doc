@@ -21,8 +21,8 @@ A refund (return) is recorded against a completed sale. You choose which items c
 
 ## Process a return
 
-1. Go to **Sales > Refunds** and select **New return**, or open a completed sale and select **New return**.
-2. If you started from the list, enter the sale number (for example `SAL-000123`) and select **Find sale**. Searching suggests matching sales as you type.
+1. Go to **Sales > Refunds** and select **New return**, or open a completed sale and select **New return**. At the till, use **Return** in the bottom bar instead (see below).
+2. If you started from the list, enter the sale number (for example `SAL-000123`) or scan the barcode or QR code on the receipt, and select **Find sale**. Searching suggests matching sales as you type, by sale number or by the customer's name or phone.
 3. For each item, enter the **Return qty**. The page shows how much is still returnable. Weighed or measured products accept decimals.
 4. Set the **Condition**: **Resellable** puts the items back into stock; **Damaged** does not.
 5. Pick a **Reason** (optional) from your active refund reasons.
@@ -30,6 +30,10 @@ A refund (return) is recorded against a completed sale. You choose which items c
 7. Select **Process return**.
 
 You land on the sale's receipt, which now shows the refund.
+
+## Returns from the POS
+
+Cashiers can take a return without leaving the till. Select **Return** in the POS bottom bar (`Alt+T`), scan the receipt or search the sale (recent sales are listed), and fill in the same form as above. The cart in progress is kept. When it is done, the window shows the amount and refund number, with **Print receipt** and **Back to sale**. See [POS Terminal](pos-terminal.md#returns-from-the-till).
 
 ### How the amount is worked out
 

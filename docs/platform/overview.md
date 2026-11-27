@@ -9,7 +9,7 @@ import Screenshot from '@site/src/components/Screenshot';
 
 The platform panel is where you, the owner of the installation, run the whole SaaS: businesses, plans, payments, support and system settings. Businesses never see it.
 
-**Where to find it:** `/admin`, or the host set in `ADMIN_DOMAIN` in your `.env` file. Sign in at `/admin/login`.
+**Where to find it:** `/admin`, or the host set in `ADMIN_DOMAIN` in your `.env` file. Sign in at `/admin/login`. Without `ADMIN_DOMAIN` this opens the shared sign-in page at `/login`, which signs in platform admins too.
 
 <Screenshot name="platform-dashboard-overview" alt="Platform panel with the sidebar open" />
 
@@ -38,6 +38,7 @@ Each item is shown only if its route exists. What you can open also depends on y
 | Announcements | Banners shown to businesses | `announcements.manage` |
 | Invoices | Subscription invoices | `billing.view` |
 | Plans | Plans and what they include | `billing.view` |
+| Website | Text, pictures and design of the public home page | `settings.manage` |
 | Settings | Platform settings, payments, legal, languages, backups | `settings.manage` |
 | Admins | Admins and roles | `admins.manage` |
 | Audit log | Everything admins did | `audit.view` |
@@ -61,5 +62,6 @@ Several features depend on the scheduler cron job (subscription changes, reminde
 
 - [Login and two-factor](login-and-two-factor.md)
 - [Dashboard](dashboard.md)
+- [Website](website.md)
 - [Businesses](businesses/businesses.md)
 - [Roles and permissions](admins/roles-and-permissions.md)

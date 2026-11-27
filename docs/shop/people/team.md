@@ -22,7 +22,7 @@ The Team page lists everyone who can sign in to your business. You invite people
 
 ## Invite a team member
 
-1. Select **Invite team member**.
+1. Select **Invite team member**. The form opens in a dialog, and so does **Edit**.
 2. Enter their **Email**. They choose their own password.
 3. Pick a **Role** and one or more **Branches** (the branches they can switch to and work from).
 4. Select **Send invitation**.

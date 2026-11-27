@@ -16,13 +16,13 @@ import Screenshot from '@site/src/components/Screenshot';
 ## Open a business as its owner
 
 1. Open the business with **Manage**.
-2. In **Open as owner** you see the owner's name and email.
-3. Enter a **Reason (optional)**, for example a support ticket number.
-4. Click **Open as owner** and confirm.
+2. The **Open as owner** card shows the owner you will be signed in as, with their name and email.
+3. Enter a **Reason**, for example a support ticket number. It is required and is saved in the audit log.
+4. Click **Open as owner** and confirm. The note under the box reminds you how long the session lasts and what is blocked.
 
 You are sent to the shop and signed in as the oldest active member who holds the Owner role. While you are in, a banner reads "Viewing as (name) ((business))" with an **Exit** button.
 
-The button is disabled with "This business has no active owner to open as" when the business is suspended or has no active owner.
+When the business is suspended or has no active owner, the card shows "This business has no active owner to open as." and the button is disabled. The card is shown only to admins with `businesses.impersonate`.
 
 ## Limits
 

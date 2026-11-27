@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:07.994 --> 00:00:20.866
+Sign in as the business owner.
+
+2
+00:00:20.966 --> 00:00:26.332
+Purchasing starts with suppliers: the people and companies you buy your stock from.
+
+3
+00:00:27.033 --> 00:00:29.661
+Click New supplier to add one.
+
+4
+00:00:29.761 --> 00:00:35.296
+Enter the supplier name and a contact person. A name is all that is required.
+
+5
+00:00:35.396 --> 00:00:39.606
+Add a phone number and an email so you know how to reach them.
+
+6
+00:00:39.706 --> 00:00:46.457
+The address goes on your purchase orders, so fill in the street, city and country.
+
+7
+00:00:46.557 --> 00:00:50.547
+Click Save supplier. It now appears in your supplier list.
+
+8
+00:00:52.650 --> 00:00:59.392
+A purchase order is your request to a supplier. Open Purchase Orders and click New Purchase Order.
+
+9
+00:00:59.492 --> 00:01:05.136
+Choose the supplier and the branch the goods are delivered to.
+
+10
+00:01:05.236 --> 00:01:13.621
+Click Add Item, pick a product, then enter the quantity and what the supplier charges per unit.
+
+11
+00:01:15.414 --> 00:01:20.339
+The total is worked out for you. Click Save to create the order as a draft.
+
+12
+00:01:22.241 --> 00:01:27.887
+When you are ready to send it, click Mark as Ordered. The supplier is emailed the order.
+
+13
+00:01:32.921 --> 00:01:37.352
+The status changes to Ordered and a Receive Stock section appears.
+
+14
+00:01:37.453 --> 00:01:44.084
+When the delivery arrives, enter how many units came in. Receive all remaining fills in the full quantity.
+
+15
+00:01:45.586 --> 00:01:50.626
+Click Receive Stock. The quantity is added to your inventory for that branch.
+
+16
+00:01:52.728 --> 00:01:58.259
+The order now shows what was received, and the receiving history records the delivery.
+
+17
+00:02:00.068 --> 00:02:07.582
+Open Inventory, then Stock levels, and search for the product.
+
+18
+00:02:07.682 --> 00:02:12.772
+Basmati Rice 1 kg went from 0 to 40 in stock, and its status is no longer Out.
+
+19
+00:02:12.872 --> 00:02:19.933
+That is the buying cycle: supplier, purchase order, receive, stock. Reorder Suggestions can start orders for you.

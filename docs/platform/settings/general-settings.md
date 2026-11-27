@@ -20,7 +20,7 @@ The settings menu groups pages like this:
 | General | Platform, Appearance, New business defaults |
 | Sign-up and billing | Sign-up, Billing, [Payments](../money/payment-gateways.md) |
 | Messaging | System email, [Email templates](mail-templates.md) |
-| Security and system | Security, [Legal pages](legal-pages.md), [Languages](languages.md), [Backups](backups.md), System |
+| Security and system | Security, [Legal pages](legal-pages.md), [Languages](languages.md), [Backups](backups.md), [File storage](file-storage.md), [System updates](system-updates.md), System |
 
 Changes that alter a value are written to the [Audit log](../admins/audit-log.md) as "Settings updated" (secrets are masked).
 
@@ -32,7 +32,9 @@ Changes that alter a value are written to the [Audit log](../admins/audit-log.md
 | Support email | Receives new support requests. Empty means every admin is emailed |
 | Company name, Company address | Your company details |
 | Email a weekly summary to platform admins | Sent Mondays at 08:00. Needs the scheduler cron job |
-| Logo | PNG, JPG or WebP, up to 1 MB |
+| Logo (light theme), Logo (dark theme) | Wide logo with your name, for the sidebar, sign-in pages and website header. The dark one falls back to the light one. PNG, JPG or WebP, up to 1 MB. Empty space around the logo is trimmed and a very large logo is scaled down when you upload it, so there is no need to crop or resize it first |
+| Short logo (light theme), Short logo (dark theme) | Square icon for the collapsed sidebar. PNG, JPG or WebP, up to 1 MB. Trimmed and scaled the same way |
+| Login background | Shown behind the sign-in and sign-up pages. PNG, JPG or WebP, up to 4 MB. Large pictures are saved as a screen-sized WebP (up to 1920 px wide) so the page loads fast. With none uploaded, the built-in picture `public/images/auth-bg.jpg` is used (a `.jpeg`, `.png` or `.webp` file with the same name also works) |
 | Favicon | PNG, ICO, JPG or WebP, up to 512 KB |
 
 ## Appearance

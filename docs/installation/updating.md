@@ -5,7 +5,7 @@ description: Update an installed copy to a newer version.
 
 # Updating
 
-Back up first, replace the code, then run the database migrations.
+Back up first, replace the code, then run the database migrations. With an update package (ZIP) you can do it from the panel instead: see [System updates](../platform/settings/system-updates.md).
 
 **Where to find it:** a terminal on your server.
 
@@ -20,6 +20,8 @@ Back up first, replace the code, then run the database migrations.
    npm install
    npm run build
    ```
+
+   If you build on your computer, replace the whole `public/build` folder on the server. `node_modules` is not needed there.
 
 4. Run the migrations:
 

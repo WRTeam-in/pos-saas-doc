@@ -72,8 +72,9 @@ Some areas need one permission to read and another to change. Reading means open
 | Announcements | `announcements.manage` | `announcements.manage` |
 | Features (rollout) | `features.manage` | `features.manage` |
 | Audit log | `audit.view` | |
-| Backups | `backups.manage` | `backups.manage` |
-| Settings, Payments, Legal pages, Languages, Email templates | `settings.manage` | `settings.manage` |
+| Backups (downloading one is Super admin only) | `backups.manage` | `backups.manage` |
+| File storage, System updates | Super admin only | Super admin only |
+| Website, Settings, Payments, Legal pages, Languages, Email templates | `settings.manage` | `settings.manage` |
 | Admins and Roles | `admins.manage` | `admins.manage` |
 
 An admin without the needed permission sees "Your role does not allow this." (HTTP 403).

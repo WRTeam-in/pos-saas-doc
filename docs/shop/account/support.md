@@ -25,7 +25,7 @@ You can send up to 10 new requests per hour.
 
 ## Follow the conversation
 
-The list shows **Subject**, **Type**, **Status** and **Last update**. Open requests stay on top.
+Tabs filter the list: all, **Waiting for us**, **Answered** and **Closed**, each with its count. Search by subject or request number (for example `#12`). The list shows **Subject**, **Type**, **Status** and **Last update**. Open requests stay on top.
 
 | Status | Meaning |
 | --- | --- |

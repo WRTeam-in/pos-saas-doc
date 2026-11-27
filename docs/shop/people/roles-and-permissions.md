@@ -71,6 +71,13 @@ Owner has every permission. "Yes" means the role has it by default; blank means 
 | `discount-rules.view` | See discount rules | Yes |  |  |  |
 | `discount-rules.create` | Add discount rules | Yes |  |  |  |
 | `discount-rules.update` | Edit discount rules | Yes |  |  |  |
+| `coupons.view` | See coupons | Yes |  |  |  |
+| `coupons.create` | Add coupons | Yes |  |  |  |
+| `coupons.update` | Edit coupons and switch them on or off | Yes |  |  |  |
+| `coupons.delete` | Delete unused coupons | Yes |  |  |  |
+| `gift-cards.view` | See gift cards | Yes | Yes |  |  |
+| `gift-cards.sell` | Sell gift cards and check balances at the POS | Yes | Yes |  |  |
+| `gift-cards.manage` | Adjust, extend and disable gift cards, and gift card settings | Yes |  |  |  |
 | `purchase-orders.view` | See purchase orders, purchase returns | Yes |  |  | Yes |
 | `purchase-orders.create` | Create purchase orders and use reorder suggestions | Yes |  |  | Yes |
 | `purchase-orders.update` | Edit purchase orders | Yes |  |  | Yes |

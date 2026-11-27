@@ -56,6 +56,7 @@ Texts you add for a new feature in code appear in English until you translate th
 
 ## Related
 
+- [Website](../website.md)
 - [Legal pages](legal-pages.md)
 - [Email templates](mail-templates.md)
 - [Business languages](../../shop/settings/languages.md)

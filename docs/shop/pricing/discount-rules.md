@@ -7,7 +7,7 @@ import Screenshot from '@site/src/components/Screenshot';
 
 # Discount Rules
 
-A discount rule gives an automatic discount at the POS when its conditions are met. No code or manual entry is needed.
+A discount rule gives an automatic discount at the POS when its conditions are met. No code or manual entry is needed. For a code the cashier enters, use [coupons](coupons.md).
 
 **Where to find it:** Tax & Pricing > Discount Rules. Permissions: `discount-rules.view`, `discount-rules.create`, `discount-rules.update`.
 

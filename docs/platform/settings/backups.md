@@ -47,7 +47,7 @@ gunzip < backup-YYYYMMDD-HHMMSS.sql.gz | mysql -u USER -p DATABASE
 Backups work with MySQL, MariaDB and SQLite. For MySQL the `mysqldump` program must be available. If it is not on the server path, set `BACKUP_MYSQLDUMP_PATH` in `.env`. Use `BACKUP_DB_CONNECTION` to back up a different connection.
 
 :::warning
-A backup holds every business's data and password hashes. Download it over a secure connection and store it safely.
+Only a Super admin can download a backup. A backup holds every business's data and password hashes. Download it over a secure connection and store it safely.
 :::
 
 Running, failing, downloading and changing the automatic setting are written to the [Audit log](../admins/audit-log.md).

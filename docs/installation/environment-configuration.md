@@ -22,6 +22,8 @@ The installer writes your `.env` file. You rarely need to touch it, but these ar
 | `ADMIN_DOMAIN` | Serve the Super admin panel on its own host (for example `admin.example.com`) instead of `/admin`. Leave empty to use `/admin`. |
 | `BACKUP_MYSQLDUMP_PATH` | Path to `mysqldump` if it is not on the PATH. Used by backups. |
 | `INSTALLER_VALIDATOR_URL` | Purchase code validator used by the installer. Leave the default. |
+| `DEMO_MODE`, `DEMO_BYPASS_EMAILS` and other `DEMO_*` values | For a public demo site only. See [Demo mode](demo-mode.md). |
+| `LANDING_DEMO_URL` | The Live demo button's link until you save one under [Website](../platform/website.md). |
 | `SESSION_DRIVER`, `CACHE_STORE`, `QUEUE_CONNECTION` | Default to `database`. |
 
 :::warning

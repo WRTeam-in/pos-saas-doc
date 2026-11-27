@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:03.582 --> 00:00:10.772
+Sign in as the platform admin.
+
+2
+00:00:10.872 --> 00:00:17.448
+Settings has its own menu, grouped into General, Sign-up and billing, Messaging, and Security and system.
+
+3
+00:00:17.548 --> 00:00:23.959
+Platform holds the name shown in the panel and in emails, plus your support email and company details.
+
+4
+00:00:24.060 --> 00:00:31.132
+Scroll down to upload the logo for the light and dark themes. A wide PNG with a transparent background works best.
+
+5
+00:00:31.236 --> 00:00:37.097
+Appearance sets the accent colour, the default theme and the font for the whole admin panel.
+
+6
+00:00:37.197 --> 00:00:43.334
+Pick a colour and the panel previews it at once. Nothing changes for others until you press Save.
+
+7
+00:00:43.435 --> 00:00:49.845
+New business defaults are the starting values every new business gets, the currency and the time zone.
+
+8
+00:00:49.945 --> 00:00:55.916
+Sign-up decides who can register. You can close sign-ups, or require a verified email address.
+
+9
+00:00:56.016 --> 00:01:02.593
+Block email domains, and limit how many invitations a business or a person can send per hour and per day.
+
+10
+00:01:02.694 --> 00:01:09.104
+System email is the mail server used for verification, password reset, invitations and billing emails.
+
+11
+00:01:09.204 --> 00:01:14.240
+Email templates lets you edit the wording of each message the platform sends.
+
+12
+00:01:14.340 --> 00:01:20.696
+Security sets the admin idle timeout, the shop session lifetime, password length and sign-in lockout.
+
+13
+00:01:20.796 --> 00:01:27.097
+You can also require two-factor authentication for every admin. We leave these settings as they are.
+
+14
+00:01:27.197 --> 00:01:32.564
+That is Settings. Legal pages, languages, backups and updates are in the same menu.

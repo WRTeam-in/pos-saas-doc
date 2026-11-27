@@ -40,11 +40,12 @@ PHP 8.3+, Composer 2, Node.js 20+ with npm, and MySQL 8 or MariaDB 10.6+. With X
 
 | Where | URL | Login |
 |-------|-----|-------|
-| Shop owner | `/login` | `test@example.com` / `password` |
+| Shop owner | `/login` | `owner@example.com` / `Demo@2026` |
+| Cashier | `/login` | `cashier@example.com` / `Demo@2026` |
 | Super admin | `/admin/login` | The account you created in step 5 |
 
 :::warning
-Never run `php artisan db:seed` on a live site. It creates the `test@example.com` demo login.
+Never run `php artisan db:seed` on a live site. It creates the `owner@example.com` and `cashier@example.com` demo logins.
 :::
 
 :::note

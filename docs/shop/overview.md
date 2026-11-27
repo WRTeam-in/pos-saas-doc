@@ -15,7 +15,7 @@ The shop panel is where a business runs its day: selling at the POS terminal, ma
 
 - **Selling:** POS terminal, sales history, refunds, cash register shifts and quotations.
 - **Catalogue and stock:** products, variants, categories, brands, units, stock levels, adjustments, transfers and stock takes.
-- **Tax and pricing:** tax rates and groups, price lists, customer groups and discount rules.
+- **Tax and pricing:** tax rates and groups, price lists, customer groups, discount rules, coupons and gift cards.
 - **Purchasing:** suppliers, purchase orders, reorder suggestions and purchase returns.
 - **Expenses, branches and people:** expense records, multiple branches, customers, loyalty points, your team and their roles.
 - **Reports and system:** sales, payment, purchase, inventory, expiry and profit reports, plus settings, billing and the audit log.
@@ -30,12 +30,12 @@ The menu is built from `config/menu.php`. You only see an item when your role ha
 | Inventory (Catalogue) | Products, Categories, Brands, Units, Attributes, Print Labels | `products.view`, `categories.view`, `brands.view`, `units.view`, `attributes.view` |
 | Inventory (Stock) | Stock levels, Stock Adjustments, Stock Transfers, Stock Takes | `inventory.view` |
 | Tax | Tax Rates, Tax Groups | `tax-rates.view`, `tax-groups.view` |
-| Pricing | Price Lists, Customer Groups, Discount Rules | `price-lists.view`, `customer-groups.view`, `discount-rules.view` |
+| Pricing | Price Lists, Customer Groups, Discount Rules, Coupons, Gift cards | `price-lists.view`, `customer-groups.view`, `discount-rules.view`, `coupons.view`, `gift-cards.view` |
 | Purchasing | Suppliers, Purchase Orders, Reorder Suggestions, Purchase returns | `suppliers.view`, `purchase-orders.view`, `purchase-orders.create` |
 | Expenses | Expenses, Expense categories | `expenses.view` |
 | Branches | Branches | `settings.manage` |
 | People | Customers, Team, Roles & Permissions | `customers.view`, `users.manage` |
-| Reports | Sales Report, Payments Report, Purchases Report, Inventory Report, Expiry Report, Profit Report | `reports.sales`, `reports.financial`, `reports.inventory` |
+| Reports | Sales Report, Payments Report, Purchases Report, Inventory Report, Expiry Report, Profit Report, Coupons report, Gift cards report | `reports.sales`, `reports.financial`, `reports.inventory` |
 | Help | Support | Open to every member |
 | System | Audit log, Billing, Settings | `audit.view`, `billing.manage`, `settings.manage` |
 
@@ -54,6 +54,8 @@ Your plan sets limits on branches, team members and products, and switches some 
 | Batch and expiry tracking | Reports > Expiry Report, expiry pages |
 | Loyalty points | Settings > Loyalty points, loyalty on customers |
 | Daily owner summary | Settings > daily summary |
+| Coupons | Pricing > Coupons, Coupons report |
+| Gift cards | Pricing > Gift cards, Gift cards report |
 | SMS | Settings > SMS settings and SMS templates |
 
 Manage your plan under System > Billing. See [Billing & Plans](account/billing-and-plans.md).

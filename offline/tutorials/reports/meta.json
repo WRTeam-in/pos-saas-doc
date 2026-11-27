@@ -1,0 +1,39 @@
+{
+  "slug": "reports",
+  "title": "Read your reports",
+  "category": "back-office",
+  "summary": "Use the Sales, Payments, Profit and Inventory reports: filter by date and branch, read the totals and export to CSV.",
+  "doc": "/docs/shop/reports/overview",
+  "order": 32,
+  "duration": 108,
+  "chapters": [
+    {
+      "t": 3.6,
+      "title": "Sign in"
+    },
+    {
+      "t": 11.8,
+      "title": "Sales report"
+    },
+    {
+      "t": 29.3,
+      "title": "Filter by date and branch"
+    },
+    {
+      "t": 49.6,
+      "title": "Payments report"
+    },
+    {
+      "t": 62.7,
+      "title": "Profit report"
+    },
+    {
+      "t": 79.4,
+      "title": "Inventory report"
+    },
+    {
+      "t": 92.9,
+      "title": "Export"
+    }
+  ]
+}

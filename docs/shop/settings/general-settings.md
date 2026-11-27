@@ -19,6 +19,7 @@ Settings is where you describe your business and tune how the panel and the POS 
 - The tabs on this page share one form. Click **Save settings** to save every tab at once. A bar shows **Unsaved changes** and nothing is applied until you save.
 - A red `!` badge on a section marks a field that needs attention after a failed save.
 - **Loyalty** only shows if you hold `loyalty.manage`. See [Loyalty](../people/loyalty.md).
+- Sections your plan does not include (for example Loyalty, Gift cards, SMS settings, SMS templates or Daily summary) are hidden from the list. See [Billing and plans](../account/billing-and-plans.md).
 
 ## Appearance
 
@@ -87,14 +88,16 @@ Controls what prints on the customer receipt.
 
 | Field | What it does |
 | --- | --- |
-| **Paper size** | **58 mm thermal roll**, **80 mm thermal roll** or **A4 sheet**. Sets width and column layout. |
+| **Paper size** | **58 mm thermal roll**, **80 mm thermal roll** or **A4 sheet**. Sets width and column layout. On a roll the print page is exactly as long as the receipt, so nothing is cut off and no blank paper is fed. **A4 sheet** prints an invoice layout with a **Billed to** box and a list of payments. |
+| **Text size** | **Small**, **Normal** (default), **Large** or **Extra large**. A sample below the field shows the result. |
+| **Text thickness** | **Normal** or **Bold (darker)**. Choose Bold if the printed text looks too light, which is common on thermal printers. |
 | **Print logo at the top** | Includes your logo. |
 | **Print customer name + phone** | Includes the customer. |
 | **Print cashier name** | Includes the cashier. |
 | **Print SKU under each item** | Adds the SKU line. |
 | **Print tax breakdown** | Shows tax per rate. |
 | **Print sale barcode** | Adds a barcode of the sale number. |
-| **Print QR code** | Adds a QR code. |
+| **Print QR code** | Adds a QR code of the sale number. Scanning it into a search box, for example when taking a return, finds the sale. |
 | **Print batch and expiry under tracked items** | For batch-tracked products. |
 | **Header text** | Up to 500 characters, printed above the items. Usually shop name, address and tax number. |
 | **Footer text** | Up to 200 characters, printed below the totals. A thank-you note or social handle. |

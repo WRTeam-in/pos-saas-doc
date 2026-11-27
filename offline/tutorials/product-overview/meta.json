@@ -1,0 +1,43 @@
+{
+  "slug": "product-overview",
+  "title": "Product overview",
+  "category": "getting-started",
+  "summary": "A quick tour of the whole product: sign in, the dashboard, selling, stock, customers and reports.",
+  "doc": "/docs/shop/overview",
+  "order": 1,
+  "duration": 81,
+  "chapters": [
+    {
+      "t": 3.5,
+      "title": "Sign in"
+    },
+    {
+      "t": 12.2,
+      "title": "Dashboard"
+    },
+    {
+      "t": 25.1,
+      "title": "The menu"
+    },
+    {
+      "t": 29.9,
+      "title": "Selling"
+    },
+    {
+      "t": 38.4,
+      "title": "Inventory"
+    },
+    {
+      "t": 52.1,
+      "title": "People"
+    },
+    {
+      "t": 58.8,
+      "title": "Reports"
+    },
+    {
+      "t": 66.2,
+      "title": "Settings"
+    }
+  ]
+}

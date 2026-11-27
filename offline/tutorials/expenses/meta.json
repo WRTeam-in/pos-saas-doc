@@ -1,0 +1,35 @@
+{
+  "slug": "expenses",
+  "title": "Record business expenses",
+  "category": "back-office",
+  "summary": "Add an expense with a category, amount and payment method, then find it in the expenses list.",
+  "doc": "/docs/shop/expenses",
+  "order": 34,
+  "duration": 76,
+  "chapters": [
+    {
+      "t": 4.2,
+      "title": "Sign in"
+    },
+    {
+      "t": 12.2,
+      "title": "The expenses list"
+    },
+    {
+      "t": 24.3,
+      "title": "Add an expense"
+    },
+    {
+      "t": 37.3,
+      "title": "Payment details"
+    },
+    {
+      "t": 47.3,
+      "title": "Save the expense"
+    },
+    {
+      "t": 60.6,
+      "title": "See it in the list"
+    }
+  ]
+}

@@ -25,7 +25,7 @@ A new business that has not yet completed a sale sees a **Get started** card wit
 
 ## Key numbers
 
-Needs `reports.sales`. Each card shows the figure, a small trend line and the change against the previous period.
+Needs `reports.sales`. Each card shows the figure, a small trend line and the change against the previous period. The icon colours are fixed and do not follow the accent colour; Refunds turns red only when there are refunds.
 
 | Card | What it shows |
 |---|---|
@@ -55,8 +55,8 @@ Needs `reports.sales` unless noted.
 | Widget | Needs | What it shows |
 |---|---|---|
 | Inventory health | `reports.inventory` | Stock value, low stock, out of stock and slow movers (no sales in the last days shown). |
-| Expiry watch | `reports.inventory` and tracked batches | Expired and soon-to-expire stock. |
-| Open shifts | `shifts.view` | Cashiers with an open register: opening cash, expected cash and a **View shift** link. |
+| Expiry watch | `reports.inventory`, tracked batches and a plan that includes batch expiry | Expired and soon-to-expire stock. |
+| Open shifts | `shifts.view` | Cashiers with an open register: opening time, opening cash and expected cash, with a badge when a shift has been open too long. Up to 6 are listed; select a row to open the shift, or **more open shifts** for the rest. |
 | Top Products | `reports.sales` | Best sellers for the period. |
 | Recent Sales | `reports.sales` | The latest sales, with a link to all sales. |
 | Low stock | `inventory.view` | Products running low, or "Nothing is running low." |

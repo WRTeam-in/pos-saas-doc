@@ -13,7 +13,7 @@ Reports turn your sales, payments, purchases, stock and expenses into totals you
 
 <Screenshot name="shop-reports-sales" alt="Sales report with date and branch filters and summary cards" />
 
-## The six reports
+## The reports
 
 | Report | Permission | Question it answers |
 | --- | --- | --- |
@@ -23,6 +23,8 @@ Reports turn your sales, payments, purchases, stock and expenses into totals you
 | **Profit Report** | `reports.financial` | What is the gross and net profit? |
 | **Inventory Report** | `reports.inventory` | What stock do we hold and what is it worth? |
 | **Expiry Report** | `reports.inventory` + plan feature **Batch and expiry tracking** | Which batches have expired or are about to? |
+| **Coupons report** | `reports.financial` + plan feature **Coupons** | How often was each [coupon](../pricing/coupons.md) used? |
+| **Gift cards report** | `reports.financial` + plan feature **Gift cards** | What did we sell, and what is still open on [gift cards](../pricing/gift-cards.md)? |
 
 A menu item only shows if you hold the permission. The Expiry Report is also hidden when your plan does not include batch and expiry tracking. See [Roles & Permissions](../people/roles-and-permissions.md) to grant access.
 
@@ -45,7 +47,7 @@ The Inventory and Expiry reports show stock as it is now, so they have no date r
 
 ## Summary cards and table
 
-Each report starts with summary cards for the whole filtered period, followed by a table that shows 15 rows per page. The cards cover every matching row, not just the page you are on.
+Each report starts with summary cards for the whole filtered period, followed by a table that shows 15 rows per page. The cards cover every matching row, not just the page you are on. The table headings stay in view while you scroll.
 
 ## Export CSV
 

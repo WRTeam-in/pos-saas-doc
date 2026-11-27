@@ -35,6 +35,7 @@ The audit log records that the legal pages changed and which languages, never th
 
 ## Related
 
+- [Website](../website.md)
 - [Languages](languages.md)
 - [General settings](general-settings.md)
 - [Audit log](../admins/audit-log.md)

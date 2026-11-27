@@ -29,7 +29,7 @@ A cashier has one open shift per branch at a time. A held sale resumed later is 
 | Cash in / Cash out | Cash in is money you add to the drawer. Cash out is money you take from it. |
 | Amount | A positive number. Cash out cannot exceed the cash expected in the drawer. |
 | Reason | Float top-up (cash in), Supplier payment, Safe drop, Expense (cash out) or Other (either). Shown on the shift report. |
-| Note | Optional detail, such as who was paid. |
+| Note | Detail such as who was paid. Required for cash out. |
 
 Cash paid for an expense or to a supplier from a register is recorded as an automatic cash out on that shift. See [Expenses](../expenses/expenses.md).
 

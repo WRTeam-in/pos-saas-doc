@@ -24,7 +24,7 @@ A fresh install creates four plans in USD. They are only created when no plan ex
 | Growth | 49.00 | 490.00 | 3 | 10 | 5000 |
 | Pro | 99.00 | 990.00 | Unlimited | Unlimited | Unlimited |
 
-Trial includes every yes/no feature. Starter includes none. Growth includes all except SMS. Pro includes all.
+Trial includes every yes/no feature. Starter includes only Coupons and Gift cards. Growth includes all except SMS. Pro includes all.
 
 ## Create or edit a plan
 
@@ -44,7 +44,7 @@ Click **New plan**, or **Edit** on a row.
 Under **What this plan includes**:
 
 - Limits (branches, team members, products): a number, or empty for **Unlimited**.
-- Yes/no features: tick to include. These are Loyalty points, Batch and expiry tracking, Stock take, Quotations, Daily owner summary and SMS.
+- Yes/no features: tick to include. These are Loyalty points, Batch and expiry tracking, Stock take, Quotations, Daily owner summary, SMS, Coupons and Gift cards.
 
 Changes take effect at once for every business on the plan. Saving writes "Plan created" or "Plan updated" to the [Audit log](../admins/audit-log.md).
 

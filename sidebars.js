@@ -14,6 +14,7 @@ module.exports = {
     'installation/first-login',
     'installation/localhost-setup',
     'installation/updating',
+    'installation/demo-mode',
   ],
 
   shop: [
@@ -59,7 +60,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Tax & Pricing',
-      items: ['shop/pricing/tax-rates-and-groups', 'shop/pricing/price-lists', 'shop/pricing/customer-groups', 'shop/pricing/discount-rules'],
+      items: ['shop/pricing/tax-rates-and-groups', 'shop/pricing/price-lists', 'shop/pricing/customer-groups', 'shop/pricing/discount-rules', 'shop/pricing/coupons', 'shop/pricing/gift-cards'],
     },
     {
       type: 'category',
@@ -108,6 +109,7 @@ module.exports = {
     'platform/overview',
     'platform/login-and-two-factor',
     'platform/dashboard',
+    'platform/website',
     {
       type: 'category',
       label: 'Businesses',
@@ -132,6 +134,8 @@ module.exports = {
         'platform/settings/mail-templates',
         'platform/settings/languages',
         'platform/settings/backups',
+        'platform/settings/file-storage',
+        'platform/settings/system-updates',
       ],
     },
     {

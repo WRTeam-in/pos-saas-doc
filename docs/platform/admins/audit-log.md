@@ -33,7 +33,7 @@ Columns: When, Admin, Event, Business, Subject, Details, IP address. Hover over 
 | Billing | Plan created, plan updated, manual payment recorded, invoice voided, payment gateway settings updated |
 | Support and notices | Support request status changed, announcement saved or deleted, weekly summary emailed |
 | Impersonation | Opened a business as its owner, stopped viewing as the owner |
-| Settings | Settings updated, email template updated, legal pages updated, language added, translations updated, default language changed, language turned on or off, language deleted |
+| Settings | Settings updated, email template updated, legal pages updated, website updated, language added, translations updated, default language changed, language turned on or off, language deleted |
 | Backups | Backup created, backup failed, backup downloaded, automatic backup setting changed |
 
 Secrets are never stored. Gateway keys, SMTP passwords and temporary passwords are masked or left out, and legal text is recorded only as "which texts changed".

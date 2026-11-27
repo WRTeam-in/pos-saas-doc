@@ -41,6 +41,10 @@ Money is never converted between currencies. If plans use different currencies y
 
 Subscription counts are worked out from dates, not from the stored status. They match what each business sees even if the nightly job has not run yet. See [Businesses](businesses/businesses.md) for the states.
 
+Each card has an icon in a fixed colour that does not change with the accent colour. Red (failed payments) and orange (open support requests) appear only when there is something to deal with; at zero the icon is grey. Cards with history show a small trend line.
+
+The cards also include **Support requests waiting**, the number of open requests.
+
 ## Needs attention
 
 **Needs attention** lists what to act on, most urgent first:

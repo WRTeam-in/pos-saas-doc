@@ -76,7 +76,7 @@ If the platform requires email verification, a banner asks you to verify your ad
 
 ## Sign in later
 
-Use the Sign in page. If you forget your password, use the forgot password link to receive a reset email. People you invite do not register; they accept an invitation. See [Team](../people/team.md).
+Use the Sign in page. If you forget your password, use the forgot password link to receive a reset email. If you send a form after your session has ended, nothing is saved: you are asked to sign in again and then return to the page you were on. On a demo site the Sign in page also has one-click demo buttons; see [Demo mode](../../installation/demo-mode.md#demo-logins). People you invite do not register; they accept an invitation. See [Team](../people/team.md).
 
 ## Related
 

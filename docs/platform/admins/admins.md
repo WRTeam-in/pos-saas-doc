@@ -26,7 +26,7 @@ Columns: name and email, role, two-factor state (**2FA on** or **2FA not set up*
 
 Share the password securely. The new admin must change it, and set up two-factor, at first sign-in. See [Login and two-factor](../login-and-two-factor.md). The password is never written to the audit log.
 
-You can also create an admin from the server with `php artisan platform:make-admin`. See [Login and two-factor](../login-and-two-factor.md#create-the-first-admin).
+You can also create an admin from the server with `php artisan platform:make-admin` (name the role with `--role`). See [Login and two-factor](../login-and-two-factor.md#create-the-first-admin).
 
 ## Change a role
 

@@ -4,3 +4,7 @@ build
 
 # narration clips (made by narrate.js)
 scripts/tutorials/.narration-cache
+
+# search index (made by npm run build)
+static/js/search-index.js
+

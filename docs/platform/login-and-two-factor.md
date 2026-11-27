@@ -21,7 +21,7 @@ The web installer creates the first admin. To add one from the server:
 php artisan platform:make-admin you@example.com --name="Your Name"
 ```
 
-The command asks for a password (at least 8 characters) and confirms it. The new admin must change that password and set up two-factor at first sign-in. Once you are in, add more people under [Admins](admins/admins.md).
+Once an admin exists, name the role too, for example `--role="Super admin"`. The command asks for a password (at least 12 characters) and confirms it. The new admin must change that password and set up two-factor at first sign-in. Once you are in, add more people under [Admins](admins/admins.md).
 
 ## Sign in
 
@@ -38,6 +38,14 @@ Limits that protect the login:
 - Changing your password signs out your other sessions.
 
 Signing out of the panel does not sign you out of a shop in the same browser.
+
+You can also sign in from the shop sign-in page (`/login`). When the email belongs to a platform admin, you are taken on to the panel and asked for your code there. If you set `ADMIN_DOMAIN`, you are sent to the admin sign-in page on that domain instead.
+
+If you send a form after your session has ended, nothing is saved. You are taken to the login page with "Your session expired and nothing was saved. Please sign in again." After signing in you return to the page you were on.
+
+The picture behind the sign-in and sign-up pages is the **Login background** under [General settings](settings/general-settings.md#platform). With none uploaded, the built-in picture is used.
+
+On a [demo site](../installation/demo-mode.md) two-factor is not forced on the shared sample admin. Admins listed in `DEMO_BYPASS_EMAILS` keep the normal rule. A demo site also shows demo login buttons on `/login`: one click on **Platform admin** signs in as `admin@example.com` (password `Demo@2026`). Never turn these on for a live site.
 
 ## Set up two-factor
 

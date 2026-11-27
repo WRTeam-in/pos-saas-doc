@@ -19,7 +19,7 @@ The list shows Date, Product, Branch, Change, Balance After, Reason and By. Filt
 
 ## Add an adjustment
 
-1. Click **Add Stock Adjustment**.
+1. Click **Add Stock Adjustment**. The form opens in a dialog over the list.
 2. Choose the **Branch**.
 3. Search for the **Product** by name, SKU or barcode (type at least 2 characters). The current stock in that branch is shown.
 4. Enter **Change**: a positive number to add, a negative one to remove (for example `10` or `-3`). This is the amount to add or remove, not the new total.

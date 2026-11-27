@@ -1,0 +1,35 @@
+{
+  "slug": "quotations",
+  "title": "Create a quotation and turn it into a sale",
+  "category": "selling",
+  "summary": "Prepare a priced offer for a customer, mark it sent and accepted, then convert it into a sale at the POS.",
+  "doc": "/docs/shop/selling/quotations",
+  "order": 15,
+  "duration": 86,
+  "chapters": [
+    {
+      "t": 3.9,
+      "title": "Quotations list"
+    },
+    {
+      "t": 20.4,
+      "title": "Customer"
+    },
+    {
+      "t": 32.8,
+      "title": "Add items"
+    },
+    {
+      "t": 46.9,
+      "title": "Save the quotation"
+    },
+    {
+      "t": 59.6,
+      "title": "Send and accept"
+    },
+    {
+      "t": 70.2,
+      "title": "Convert to a sale"
+    }
+  ]
+}

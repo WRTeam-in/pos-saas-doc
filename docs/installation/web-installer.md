@@ -37,7 +37,7 @@ The installer sets up the database and creates your Super admin account. It open
 | Admin email | The email you sign in with. |
 | Admin password | At least 8 characters. |
 | Confirm admin password | Repeat the password. |
-| Install demo data | Optional. Adds a "Demo Store" business with sample products and customers. |
+| Install demo data | Optional. Adds a "Demo Store" business with sample products and customers, an owner `owner@example.com` and a cashier `cashier@example.com` (password `Demo@2026` for both). Not for a live site. |
 
 This step also generates the encryption key, writes the settings to `.env` (production mode, debug off) and creates the storage link.
 
