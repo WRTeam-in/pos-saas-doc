@@ -1,0 +1,35 @@
+{
+  "slug": "stock-takes",
+  "title": "Count your stock with a stock take",
+  "category": "back-office",
+  "summary": "Start a count, enter what is on the shelf, review the differences and approve to update your stock.",
+  "doc": "/docs/shop/stock/stock-takes",
+  "order": 24,
+  "duration": 91,
+  "chapters": [
+    {
+      "t": 4.7,
+      "title": "Sign in"
+    },
+    {
+      "t": 13.9,
+      "title": "Start a stock take"
+    },
+    {
+      "t": 37.7,
+      "title": "Count the stock"
+    },
+    {
+      "t": 54.4,
+      "title": "Review the differences"
+    },
+    {
+      "t": 66.3,
+      "title": "Approve"
+    },
+    {
+      "t": 74.7,
+      "title": "Check the result"
+    }
+  ]
+}

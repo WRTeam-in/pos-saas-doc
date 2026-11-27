@@ -1,0 +1,35 @@
+{
+  "slug": "products",
+  "title": "Add and manage products",
+  "category": "back-office",
+  "summary": "Browse the product list, search and filter, add a simple product with SKU, barcode, price and starting stock, then edit it.",
+  "doc": "/docs/shop/catalogue/products",
+  "order": 20,
+  "duration": 143,
+  "chapters": [
+    {
+      "t": 6.8,
+      "title": "Sign in"
+    },
+    {
+      "t": 20.2,
+      "title": "The product list"
+    },
+    {
+      "t": 41.6,
+      "title": "Search and filter"
+    },
+    {
+      "t": 59.1,
+      "title": "Add a product"
+    },
+    {
+      "t": 101.2,
+      "title": "Save the product"
+    },
+    {
+      "t": 109.1,
+      "title": "Open and edit"
+    }
+  ]
+}

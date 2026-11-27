@@ -1,0 +1,39 @@
+{
+  "slug": "platform-settings",
+  "title": "Platform settings",
+  "category": "super-admin",
+  "summary": "A tour of Settings: platform name and logos, appearance, new business defaults, sign-up rules, email and security.",
+  "doc": "/docs/platform/settings/general-settings",
+  "order": 43,
+  "duration": 94,
+  "chapters": [
+    {
+      "t": 3.5,
+      "title": "Open Settings"
+    },
+    {
+      "t": 17.5,
+      "title": "Name and logos"
+    },
+    {
+      "t": 31.2,
+      "title": "Appearance"
+    },
+    {
+      "t": 43.4,
+      "title": "New business defaults"
+    },
+    {
+      "t": 49.9,
+      "title": "Sign-up"
+    },
+    {
+      "t": 62.6,
+      "title": "Email"
+    },
+    {
+      "t": 74.3,
+      "title": "Security"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "business-settings",
+  "title": "Business settings",
+  "category": "back-office",
+  "summary": "Tour the Settings page: business details, currency and tax, receipts, and where the other options live.",
+  "doc": "/docs/shop/settings/general-settings",
+  "order": 35,
+  "duration": 82,
+  "chapters": [
+    {
+      "t": 3.5,
+      "title": "Sign in"
+    },
+    {
+      "t": 11.4,
+      "title": "Open Settings"
+    },
+    {
+      "t": 20.3,
+      "title": "Business details"
+    },
+    {
+      "t": 32.3,
+      "title": "Currency and tax"
+    },
+    {
+      "t": 43.7,
+      "title": "Receipts"
+    },
+    {
+      "t": 58.8,
+      "title": "Everything else"
+    }
+  ]
+}

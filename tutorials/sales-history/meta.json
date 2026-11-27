@@ -1,0 +1,31 @@
+{
+  "slug": "sales-history",
+  "title": "Find and review past sales",
+  "category": "selling",
+  "summary": "Search and filter the Sales list, open a sale to see its items and payments, and view the receipt.",
+  "doc": "/docs/shop/selling/sales",
+  "order": 12,
+  "duration": 82,
+  "chapters": [
+    {
+      "t": 3.6,
+      "title": "The Sales list"
+    },
+    {
+      "t": 26.9,
+      "title": "Status tabs"
+    },
+    {
+      "t": 39,
+      "title": "Search and filter"
+    },
+    {
+      "t": 54.8,
+      "title": "Open a sale"
+    },
+    {
+      "t": 67.8,
+      "title": "The receipt"
+    }
+  ]
+}

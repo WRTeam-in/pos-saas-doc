@@ -1,0 +1,43 @@
+{
+  "slug": "dashboard",
+  "title": "Your dashboard",
+  "category": "getting-started",
+  "summary": "Read the dashboard: sales, profit and orders for any period or branch, trends, best sellers and what needs attention.",
+  "doc": "/docs/shop/getting-started/dashboard",
+  "order": 2,
+  "duration": 88,
+  "chapters": [
+    {
+      "t": 3.8,
+      "title": "Sign in"
+    },
+    {
+      "t": 15.8,
+      "title": "The numbers"
+    },
+    {
+      "t": 26.9,
+      "title": "Pick a period"
+    },
+    {
+      "t": 36.4,
+      "title": "Pick a branch"
+    },
+    {
+      "t": 46.9,
+      "title": "Trends"
+    },
+    {
+      "t": 59.2,
+      "title": "Recent activity"
+    },
+    {
+      "t": 67.8,
+      "title": "Needs attention"
+    },
+    {
+      "t": 75.9,
+      "title": "Customers and branches"
+    }
+  ]
+}

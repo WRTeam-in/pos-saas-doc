@@ -1,0 +1,35 @@
+{
+  "slug": "stock-levels-and-adjustments",
+  "title": "Check and adjust stock",
+  "category": "back-office",
+  "summary": "Read the stock levels page, find low and out of stock items, and correct a count with a reason.",
+  "doc": "/docs/shop/stock/stock-levels",
+  "order": 22,
+  "duration": 99,
+  "chapters": [
+    {
+      "t": 5,
+      "title": "Sign in"
+    },
+    {
+      "t": 14.6,
+      "title": "Stock levels"
+    },
+    {
+      "t": 30.1,
+      "title": "Low and out of stock"
+    },
+    {
+      "t": 45.6,
+      "title": "Filter and search"
+    },
+    {
+      "t": 56.5,
+      "title": "Adjust stock"
+    },
+    {
+      "t": 77.5,
+      "title": "See the result"
+    }
+  ]
+}

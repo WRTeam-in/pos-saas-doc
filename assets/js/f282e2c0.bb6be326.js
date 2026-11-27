@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpos_documentation=self.webpackChunkpos_documentation||[]).push([[2521],{9327(e){e.exports=JSON.parse('{"name":"tutorials-routes","id":"default"}')}}]);

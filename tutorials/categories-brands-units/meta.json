@@ -1,0 +1,35 @@
+{
+  "slug": "categories-brands-units",
+  "title": "Organise with categories, brands and units",
+  "category": "back-office",
+  "summary": "Create a category, a brand and a unit, then use them on a new product.",
+  "doc": "/docs/shop/catalogue/categories-brands-units",
+  "order": 21,
+  "duration": 127,
+  "chapters": [
+    {
+      "t": 5,
+      "title": "Sign in"
+    },
+    {
+      "t": 19.1,
+      "title": "Categories"
+    },
+    {
+      "t": 48.3,
+      "title": "Brands"
+    },
+    {
+      "t": 60.2,
+      "title": "Units"
+    },
+    {
+      "t": 81.5,
+      "title": "Use them on a product"
+    },
+    {
+      "t": 106.8,
+      "title": "See the result"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+WEBVTT
+
+1
+00:00:03.596 --> 00:00:11.747
+Sign in as the platform admin.
+
+2
+00:00:11.847 --> 00:00:18.753
+Plans are what you sell. Each has a monthly and a yearly price. The Trial plan is what new businesses start on.
+
+3
+00:00:18.853 --> 00:00:22.404
+Click Edit on Starter to see what a plan controls.
+
+4
+00:00:22.504 --> 00:00:26.715
+The name, code, currency, prices and the number of trial days.
+
+5
+00:00:26.815 --> 00:00:32.456
+Limits cap branches, team members and products. Leave a limit empty and it is unlimited.
+
+6
+00:00:32.556 --> 00:00:38.362
+The tick boxes switch features on or off for this plan, such as coupons, gift cards or SMS.
+
+7
+00:00:38.462 --> 00:00:42.233
+We leave without saving. Cancel goes back to the list.
+
+8
+00:00:42.333 --> 00:00:48.196
+Invoices lists every payment from every business, with its plan, amount, status and gateway.
+
+9
+00:00:48.296 --> 00:00:53.333
+Tabs filter by status: pending, paid, failed or void. Here are the paid ones.
+
+10
+00:00:53.433 --> 00:00:59.214
+You can also filter by gateway, by mode, by date, or search by business name.
+
+11
+00:00:59.314 --> 00:01:05.560
+Manage opens one invoice. Void cancels it and can take back the days it added, so use it with care.
+
+12
+00:01:05.660 --> 00:01:11.300
+Payments, under Settings, is where you connect the gateways your businesses pay through.
+
+13
+00:01:11.400 --> 00:01:17.151
+Stripe, Razorpay, Flutterwave and PayPal each have an on or off switch and their own keys.
+
+14
+00:01:17.251 --> 00:01:23.496
+Each gateway has a Live and a Test mode, and shows the webhook address to paste into its dashboard.
+
+15
+00:01:23.596 --> 00:01:30.006
+Billing sets the grace period after a failed renewal, the reminder days and the invoice number prefix.
+
+16
+00:01:30.106 --> 00:01:35.746
+That is plans and billing. Plans set what a business gets, invoices record what it paid.
