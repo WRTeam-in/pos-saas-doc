@@ -1,17 +1,17 @@
 // @ts-check
-// Live at https://marketplace.wrteam.in/docs/pos-saas-doc/ : the marketplace site proxies that path to GitHub Pages.
-// BASE_URL is set in .github/workflows/deploy.yml; local and offline builds use /.
+// GitHub Pages serves the site at https://wrteam-in.github.io/pos-saas-doc/ (BASE_URL is set in .github/workflows/deploy.yml); local and offline builds use /.
 const baseUrl = process.env.BASE_URL || '/';
 
 const config = {
   title: 'POS SaaS Documentation',
   tagline: 'Multi-tenant point of sale and back office',
   favicon: 'img/favicon.svg',
-  url: 'https://marketplace.wrteam.in',
+  url: 'https://wrteam-in.github.io',
   baseUrl,
   organizationName: 'WRTeam-in',
   projectName: 'pos-saas-doc',
   trailingSlash: true,
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   i18n: { defaultLocale: 'en', locales: ['en'] },
   plugins: ['./plugins/tutorials-routes'],
