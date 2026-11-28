@@ -9,10 +9,10 @@ Before contacting support, check the [FAQs](faqs.md) and the relevant page of th
 
 ## Contact
 
-| Channel | Details |
-|---------|---------|
-| Email | `[SUPPORT EMAIL - to be filled in]` |
-| Website | `[SUPPORT WEBSITE - to be filled in]` |
+| Topic | Who | Contact | When to use |
+|-------|-----|---------|-------------|
+| ✉️ General | Support Team | [support@wrteam.in](mailto:support@wrteam.in) | Anything else. Replies within 1 working day. |
+| 🛠️ Technical | Developer | [vipul.wrteam@gmail.com](mailto:vipul.wrteam@gmail.com) · [Chat on Microsoft Teams](https://teams.live.com/l/invite/FEApP6xzBUkr4Wtbg?v=g1) | Installation, setup, errors and other technical issues. |
 
 ## What to include
 
